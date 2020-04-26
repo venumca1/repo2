@@ -1,2 +1,3 @@
 Content of first file first line
 Second line from git cmd line
+Third line from branch 2
