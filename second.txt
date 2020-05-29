@@ -1,1 +1,2 @@
 First statement in second file
+Second line for stash check
