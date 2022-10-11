@@ -2,4 +2,5 @@ First statement in second file
 Second line for stash check
 
 Third test one
+Added by User 1
 fourth line test
